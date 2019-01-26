@@ -16,5 +16,5 @@ server:
   port: 8088
 
 PRODUCT:
-  ribbon:
+ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
