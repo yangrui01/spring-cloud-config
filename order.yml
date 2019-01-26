@@ -20,4 +20,3 @@ PRODUCT:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 branch:
   master
-dev
