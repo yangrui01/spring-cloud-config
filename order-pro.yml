@@ -20,6 +20,6 @@ PRODUCT:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 branch: pro234
-person
+person:
    name: yangrui
    age: 27
