@@ -9,10 +9,16 @@ spring:
     password: root
     jpa:
       show-sql: true
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
+  rabbitmq:
+    host: 39.98.164.182
+    port: 6661
+    username: guest
+    password: guest
+  redis:
+    host: 39.98.164.182
+    port: 6666
+    password: 199192abc     
+
 server:
   port: 8088
 
